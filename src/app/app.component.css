@@ -2,7 +2,7 @@
     font-family: 'Helvetica Neue';
     src: url('/fonts/HelveticaNeue.eot');
     /* IE9 Compat Modes */
-    src: url('/fonts/HelveticaNeue.eot?#iefix') format('embedded-opentype'), url(/fonts/HelveticaNeue.woff2') format('woff2'), url('/fonts/HelveticaNeue.woff') format('woff'), url('/fonts/HelveticaNeue.ttf') format('truetype'), url('/fonts/HelveticaNeue.svg#svgHelveticaNeue') format('svg');
+    src: url('/fonts/HelveticaNeue.eot?#iefix') format('embedded-opentype'), url(/fonts/HelveticaNeue.woff2') format('woff2'), url('/fonts/HelveticaNeue.woff') format('woff'), url('/fonts/HelveticaNeue.ttf') format('truetype'), url('/fonts/HelveticaNeue.svg#svgHelveticaNeue') format('svg')
 }
 
 button {
